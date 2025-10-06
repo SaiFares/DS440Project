@@ -37,16 +37,16 @@ The purpose of this project is to demonstrate how **RAG architectures** can enha
 |------------|-----------------|
 | **Language** | Python 3.10+ |
 | **Embeddings** | SentenceTransformers |
-| **Vector Store** | FAISS / Chroma |
-| **LLM Backend** | OpenAI API / Ollama (local) |
-| **Frameworks** | LangChain / LlamaIndex |
+| **Vector Store** | FAISS |
+| **LLM Backend** | OpenAI API |
+| **Frameworks** | LangChain |
 | **Data Source** | The Gale Encyclopedia of Medicine |
-| **Frontend (optional)** | Streamlit or Gradio |
+| **Frontend (optional)** | Streamlit |
 
 ---
 
 ## 🚀 How to Run
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/rag-healthcare-bot.git
+   git clone https://github.com/SaiFares/rag-healthcare-bot.git
    cd rag-healthcare-bot
