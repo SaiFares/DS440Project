@@ -48,5 +48,5 @@ The purpose of this project is to demonstrate how **RAG architectures** can enha
 ## 🚀 How to Run
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/SaiFares/rag-healthcare-bot.git
-   cd rag-healthcare-bot
+   git clone https://github.com/SaiFares/DS440Project.git
+   cd DS440Project
