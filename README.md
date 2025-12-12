@@ -1,5 +1,5 @@
 # 🧠 RAG-Based Healthcare Chatbot  
-**Course:** DS440 – Advanced Data Systems  
+**Course:** DS440 – Data Science Capstone 
 **Project Title:** Retrieval-Augmented Generation (RAG) for Healthcare Question Answering  
 **Author:** Saif, Abdul  
 **Institution:** Penn State University  
